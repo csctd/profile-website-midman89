@@ -1,2 +1,2 @@
-![alt text](Jobacceptance.png)
-![alt text](mentorship.png)
+![alt text](_static/img/Jobacceptance.png)
+![alt text](_static/img/mentorship.png)
