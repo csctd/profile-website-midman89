@@ -1,10 +1,6 @@
 # Images at TD
-
-```{include} _static/play_pause.html
-```
-
-```{card} 
-:class-card: slide
+:::{card}
+:class_cards: slide
 
 ![alt text](_static/img/Jobacceptance.png)
 ```
@@ -13,4 +9,7 @@
 :class-card: slide
 
 ![alt text](_static/img/mentorship.png)
-```
+:::
+
+:::{include} _static/play_pause.html
+:::
