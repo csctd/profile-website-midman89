@@ -1,6 +1,6 @@
 # Images at TD
 :::{card}
-:class_cards: slide
+:class_card: slide
 
 ![alt text](_static/img/Jobacceptance.png)
 ```
