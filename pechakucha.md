@@ -9,7 +9,7 @@
 :class-card: slide
 
 ![alt text](_static/img/mentorship.png)
-:::
+```
 
 :::{include} _static/play_pause.html
 :::
